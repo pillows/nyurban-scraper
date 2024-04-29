@@ -11,7 +11,7 @@ This is a beginner Rust project aimed at scraping a website to check when a sess
 1. Make sure you have Rust installed. If not, you can download it from [here](https://www.rust-lang.org/tools/install).
 2. Clone this repository:
     ```
-    git clone [https://github.com/pillows/nyurban-scraper](https://github.com/pillows/nyurban-scraper)
+    git clone https://github.com/pillows/nyurban-scraper
     ```
 3. Navigate to the project directory:
     ```
